@@ -16,7 +16,6 @@ $(call inherit-product, device/xiaomi/munch/device.mk)
 
 TARGET_DISABLE_EPPE := true
 TARGET_OPTIMIZED_DEXOPT := true
-WITH_GMS := false
 WITH_BCR := true
 USE_ADVANCED_DISPLAY_COLOR := true
 USE_REALITY_ENGINE := true
@@ -26,7 +25,6 @@ BYPASS_CHARGE_SUPPORTED := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
 USE_PIXEL_CHARGING := true
 TARGET_INCLUDE_BCR := true
-WITH_GMS := false
 
 PRODUCT_NAME := lineage_munch
 PRODUCT_DEVICE := munch
