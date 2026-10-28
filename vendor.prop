@@ -1,7 +1,7 @@
 # Audio
 persist.vendor.audio.speaker.stereo=true
 persist.vendor.audio.delta.refresh=true
-persist.vendor.audio.misound.disable=true
+persist.vendor.audio.misound.disable=false
 ro.audio.monitorRotation=true
 ro.vendor.audio.enhance.support=false
 ro.vendor.audio.gain.support=true
